@@ -1,3 +1,3 @@
 wpeinit
 
-powershell.exe -noexit -noprofile -nologo -File X:\scripts\Start-OSDeployment.ps1
+powershell.exe -NoExit -NoProfile -NoLogo -ExecutionPolicy Bypass -File X:\scripts\Start-OSDeployment.ps1
